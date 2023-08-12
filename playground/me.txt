@@ -1,5 +1,0 @@
-{{#user}}
-My name is [S.Soundarya Priyadharshini].
-Here are my skills: [html,css,javasript,reactjs].
-My email id is [soundaryaa040@gmail.com].
-{{/user}}
